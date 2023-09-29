@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "name": "jemima nadar",
+      "age": 22,
+      "gender": "female",
+      "imgsrc" : "images/OIP.jpeg",
+      "details": "College student passionate about psychology, aiming to help others through mental health advocacy and research. Balancing studies with extracurriculars for a well-rounded experience.",
+      "addr": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29997.75611875904!2d73.76814882456958!3d19.978294672060734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bddeadfda6df2a1%3A0x578e2b2e28b9b936!2sJoy%20Kindergarten!5e0!3m2!1sen!2sin!4v1695968769620!5m2!1sen!2sin"
+    },
+    {
+      "name": "prajyot dange",
+      "age": 23,
+      "gender": "male",
+      "imgsrc" : "images/male.jpg",
+      "details": "Working professional in marketing, leveraging creativity and data for effective campaigns. Striving for growth and customer engagement in a dynamic industry.",
+      "addr": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3105.150382269588!2d-77.03910472414964!3d38.89767627172395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b7bcdecbb1df%3A0x715969d86d0b76bf!2sThe%20White%20House!5e0!3m2!1sen!2sin!4v1695970296580!5m2!1sen!2sin"
+    },
+    {
+      "name": "prathmesh dhapte",
+      "age": 22,
+      "gender": "male",
+      "imgsrc" : "images/male.jpg",
+      "details": "As a college student majoring in engineering, I thrive on problem-solving and innovation. Striving for academic excellence while nurturing a strong sense of teamwork and collaboration.",
+      "addr": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3752.2329616765487!2d75.36872813041609!3d19.872382563629074!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1695831937843!5m2!1sen!2sin"
+    },
+    {
+      "name": "harshal khare",
+      "age": 22,
+      "gender": "male",
+      "imgsrc" : "images/male.jpg",
+      "details": "As a working professional in finance, I thrive on analyzing markets and investments. Committed to delivering sound financial advice and achieving clients' financial goals.",
+      "addr": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7497.638606831977!2d73.82796681713117!3d20.016097192633257!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bddebab15555555%3A0xdb01367e9d5cf969!2sK.%20K.%20Wagh%20Institute%20Of%20Engineering%20Education%20And%20Research!5e0!3m2!1sen!2sin!4v1695831490251!5m2!1sen!2sin"
+    },
+
+    {
+      "name": "arti tarde",
+      "age": 20,
+      "gender": "female",
+      "imgsrc" : "images/OIP.jpeg",
+      "details": "Environmental consultant and a working professional, passionate about sustainable practices. Collaborating with businesses to implement eco-friendly strategies, contributing to a greener future.",
+      "addr": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7498.885989013174!2d73.82366122923722!3d19.989913868325168!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bddea9081919ef1%3A0x60e29e25f86c3a81!2sRudraFarm!5e0!3m2!1sen!2sin!4v1695969611407!5m2!1sen!2sin"
+    },
+    {
+      "name": "sakshi pawar",
+      "age": 20,
+      "gender": "female",
+      "imgsrc" : "images/OIP.jpeg",
+      "details": "Dedicated college student pursuing a degree in environmental science. Eager to make a positive impact by promoting sustainability and environmental awareness through education and action.",
+      "addr": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3750.5136116396375!2d73.83669450191712!3d19.94489117322266!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bdd95a9eb3a0bd3%3A0x5cba7411a37e3cd4!2sGRS%20Residency%2C%20Nashik%20Road%20Station!5e0!3m2!1sen!2sin!4v1695970218157!5m2!1sen!2sin"
+    },
+    {
+      "name": "pratik waghere",
+      "age": 20,
+      "gender": "male",
+      "imgsrc" : "images/male.jpg",
+      "details": "College student with a passion for literature and writing. Dedicated to honing creative skills while engaging in academic exploration. Dreaming of a future in publishing or teaching.",
+      "addr": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3749.9189889216827!2d73.81840037512383!3d19.96990888142764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bddeab83cfc8595%3A0xc7434ccf5773fb70!2sIcchamani%20Apartment!5e0!3m2!1sen!2sin!4v1695969802264!5m2!1sen!2sin"
+    },
+    {
+      "name": "om diwakar",
+      "age": 20,
+      "gender": "female",
+      "imgsrc" : "images/male.jpg",
+      "details": "Working professional in healthcare, dedicated to improving patient outcomes through research and innovation. Integrating empathy and expertise to provide quality healthcare services.",
+      "addr": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3749.7706028034645!2d73.853829975124!3d19.976147281422676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bddc182ddac6cdf%3A0xe6854319adeffe0c!2sJail%20road%20pawar%20wadi!5e0!3m2!1sen!2sin!4v1695970004818!5m2!1sen!2sin"
+    },
+    {
+      "name": "saiba ansari",
+      "age": 20,
+      "gender": "female",
+      "imgsrc" : "images/OIP.jpeg",
+      "details": " Working professional in technology, driving digital transformation. Excited about leveraging innovative solutions to optimize processes and enhance user experiences in an evolving tech landscape.",
+      "addr": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3750.4473386949794!2d73.84418367512325!3d19.947680981444698!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bddbf560c31b9f3%3A0xe97bce60efe6e6ba!2sSinner%20Phata!5e0!3m2!1sen!2sin!4v1695970074189!5m2!1sen!2sin"
+    },
+    {
+      "name": "disha gohil",
+      "age": 20,
+      "gender": "female",
+      "imgsrc" : "images/OIP.jpeg",
+      "details": "College student studying business administration, with aspirations to lead and innovate in the corporate world. Seeking knowledge and experience to shape a successful and impactful career.",
+      "addr": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59998.705639095264!2d73.77977548637169!3d19.969904108067393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bddeb04c804631b%3A0xc3f11cb538916063!2sAgrawal%20Girls%20Hostel!5e0!3m2!1sen!2sin!4v1695969889482!5m2!1sen!2sin"
+    }
+  ]
+}
